@@ -1,0 +1,7 @@
+{
+    "name": "cloudsecurity",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
